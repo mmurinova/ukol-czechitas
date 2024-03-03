@@ -89,7 +89,7 @@ ul {
 }
 
 .hlavicka {
-    background-image: url(obrazky/M\ \(1\).png);
+    background-image: url(.obrazky/M\ \(1\).png);
     padding: 25px 25px 25px;
     background-repeat: no-repeat;
     background-position: center;
