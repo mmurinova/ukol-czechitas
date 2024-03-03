@@ -1,0 +1,105 @@
+body {
+    line-height: 1.5;
+    margin: 0;
+    font-size: 18px;    
+}
+
+.fotka1 {
+    width: 550px;
+    border-radius: 50px 50px 50px 0;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    padding: 0 38px;  
+}
+.uvod {
+    background-color:#DFEBF1;
+}
+
+.vzdelavani {
+    background-color: aliceblue;
+}
+
+.osbnizajmy {
+    background-color: aliceblue;
+}
+
+.vudkyne {
+    background-color: #DFEBF1;
+}
+.kontakt {
+    background-color: #DFEBF1;
+}
+
+h1 {
+    color: #F3D554;
+    font-family: "Montserrat", sans-serif;
+    font-size: 100px;
+    text-align: center;
+    padding: 0;
+}
+
+h2 {
+    color:#43544A;
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 200;
+}
+
+p {
+    padding: 0 10px;
+}
+
+.nadpis {
+    font-size: 80px;
+}
+
+section {
+    overflow: auto;
+    padding: 50px 15%;
+    margin: 0;
+}
+
+ul {
+    padding: 10px;
+}
+.menu {
+    margin: 0;
+    padding: 0%;
+    text-align: right;
+    background-color: #657F6F;
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.menu a {
+    display: inline-block;
+    color: #F3D554;
+    text-decoration: none;
+    padding: 20px 20px;
+}
+
+.menu a:hover,
+.menu a:focus,
+.menu a:active {
+    background-color: #756158;
+}
+
+.hlavicka {
+    background-image: url(obrázky/M\ \(1\).png);
+    padding: 25px 25px 25px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.paticka {
+    text-align: center;
+    background-color: #657F6F;
+    margin: 0;
+    padding: 20px;
+}
+
